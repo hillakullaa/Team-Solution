@@ -14,7 +14,7 @@
 | 009 | Each button must have one clearly defined function, labeled with clear text or symbols. | Non-functional | Must |
 | 010 | All lights must be switchable off from a bedside control. | Functional | Must |
 | 011 | A second bedside control panel may provide full lighting controls. | Functional | Should |
-| 012 | The system must use existing lighting fixtures where possible. | Technical | Must |
+| 012 | The system must use existing lighting fixtures where possible. | Functional | Must |
 | 013 | The system must provide a centralized dashboard showing device status. | Functional | Must |
 | 014 | The dashboard must include room-level diagnostics. | Functional | Should |
 | 015 | The system must meet electrical and fire safety requirements. | Non-functional | Must |
