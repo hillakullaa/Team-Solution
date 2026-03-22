@@ -2,4 +2,6 @@
 
 ## Project RoomLight Controller
 
-- Viikkotehtävä 1: Press Release
+- Task I: Press Release
+- Task II: Stakeholder
+- Task III: Product Requirements and Prototype Scope
