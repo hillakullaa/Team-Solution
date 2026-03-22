@@ -9,9 +9,9 @@
 | 004 | Room lighting must remain consistent across all rooms of the same type. | Functional | Must |
 | 005 | System must support four lighting modes (Work, Sleep, Relax, Welcome), adjustable to hotel needs. | Functional | Must |
 | 006 | The system must not require additional staff training to operate. | Non-functional | Must |
-| 007 | The room control panel must contain as few buttons as possible, maximum of three. | Usability | Must |
-| 008 | Buttons must be physically large enough for easy operation. | Usability | Must |
-| 009 | Each button must have one clearly defined function, labeled with clear text or symbols. | Usability | Must |
+| 007 | The room control panel must contain as few buttons as possible, maximum of three. | Non-functional | Must |
+| 008 | Buttons must be physically large enough for easy operation. | Non-functional | Must |
+| 009 | Each button must have one clearly defined function, labeled with clear text or symbols. | Non-functional | Must |
 | 010 | All lights must be switchable off from a bedside control. | Functional | Must |
 | 011 | A second bedside control panel may provide full lighting controls. | Functional | Should |
 | 012 | The system must use existing lighting fixtures where possible. | Technical | Must |
