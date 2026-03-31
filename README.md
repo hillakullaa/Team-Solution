@@ -5,3 +5,4 @@
 - Task I: Press Release
 - Task II: Stakeholder
 - Task III: Product Requirements and Prototype Scope
+- Task IV: Domain model
